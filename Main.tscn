@@ -1,3 +1,6 @@
 [gd_scene format=3 uid="uid://c8ie6eom135f5"]
 
 [node name="Main" type="Node2D"]
+
+[node name="BackgroundLayer" type="CanvasLayer" parent="."]
+layer = -1
